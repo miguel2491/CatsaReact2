@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'UnisonProBoldRound';
+    src: url('../fonts/TypeJuice-UnisonProBoldRound.otf') format('opentype'), url('../fonts/TypeJuice-UnisonProBoldRound.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}

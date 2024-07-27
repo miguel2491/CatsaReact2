@@ -1,0 +1,32 @@
+.dashboard{
+    margin-top:5%;
+}
+.bdge
+{
+    position: relative;
+    padding: 2px 5px;
+    top: -12px;
+    right: 8px;
+    line-height: 12px;
+}
+.dropdown-toggle::after
+{
+    color:white !important;
+}
+.bdge_icon .btn
+{
+    font-size: 12px !important;
+    line-height: 2px;
+    padding: 5px;
+}
+.badge{
+    --bs-badge-padding-x:0 !important; 
+    border-radius: 50px !important;
+}
+.navbarL{
+    background: #FFFFFF;
+    height: 100vh;
+}
+.panel{
+    height: 100vw;
+}

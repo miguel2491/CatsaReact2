@@ -1,0 +1,12 @@
+@import url('https://rsms.me/inter/inter-ui.css');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:200');
+
+@font-face {
+    font-family: 'UnisonProBoldRound';
+    src: url('/public/font/TypeJuice-UnisonProBoldRound.otf') format('opentype'), url('/public/font/TypeJuice-UnisonProBoldRound.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+body{
+    font-family:"UnisonProBoldRound";
+}

@@ -1,0 +1,17 @@
+.dropdown-menu[data-bs-popper]
+{
+    left: -10rem !important;
+    width: auto;
+    max-width: 22rem;
+    height: auto;
+    max-height: 25rem;
+    overflow-x: scroll;
+}
+.dv_not{
+    font-size: 14px;
+    width: 100%;
+    padding: 3px 20px;
+}
+.dv_desc{
+    white-space: initial;
+}
